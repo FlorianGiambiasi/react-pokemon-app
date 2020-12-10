@@ -11,7 +11,7 @@ const App: FunctionComponent = () => {
      <div>
        {/* La barre de navigation commun à toutes les pages*/}
        <nav>
-         <div className="nav-wraper teal">
+         <div className="nav-wrapper teal">
          <Link to="/" className="brand-logo center">Pokédex</Link>
          </div>
        </nav>
